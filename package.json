@@ -2,7 +2,7 @@
   "name": "react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aleksandrmyk.github.io/react-hw-01-components",
+  "homepage": "https://aleksandrmyk.github.io/react-hw-02-feedback",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
