@@ -1,8 +1,9 @@
-.btn {
+button {
 display: inline-block;
 padding: 0.5em 3em;
-border: 0.16em solid #000000;
-margin: 0 0.3em 0.3em 0;
+border: 2px solid #000000;
+border-radius: 5px;
+margin: 0 2px;
 box-sizing: border-box;
 text-decoration: none;
 text-transform: uppercase;
@@ -12,12 +13,20 @@ color :#000000;
 text-align: center;
 transition: all 0.15s;
 }
-
-.btn:hover{
+.btng {
+	background-color: #7bff8d;
+}
+.btnn {
+	background-color: #fbfd6e;
+}
+.btnb {
+	background-color: #ff8484;
+}
+button:hover{
 background-color:#4d4848;
 color: white;
 }
-.btn:active{
+button:active{
 background-color:#4d4848;
 color: white;
 }

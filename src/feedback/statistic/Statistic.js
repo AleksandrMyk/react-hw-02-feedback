@@ -10,7 +10,7 @@ function Statistics({ good, neutral, bad, total, positive }) {
 			<span className={style.text}>Neutral: {neutral}</span>
 			<span className={style.text}>Bad: {bad}</span>
 			<span className={style.text}>Total: {total}</span>
-			<span className={style.text}>Positive feedpack: {positive}%</span>
+			<span className={style.text}>Positive feedpack: {positive}</span>
 		</div>
 	)
 }
